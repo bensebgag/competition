@@ -10,7 +10,7 @@ const coureInf = [
 ];
 function Teacher() {
   return (
-    <div className="container">
+    <div className="containerTeacher">
       <div className="headding">
         <p>Course of lessons</p>
         <div className="selections">

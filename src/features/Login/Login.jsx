@@ -1,5 +1,5 @@
 import "./Login.scss";
-import LogoImage from "../../assets/7786193-Photoroom.png";
+import LogoImage from "../../assets/5870503738924450663-Photoroom.png";
 function Login() {
   return (
     <div className="page">

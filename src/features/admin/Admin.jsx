@@ -26,7 +26,7 @@ const tpInfo = [
 ];
 function Admin() {
   return (
-    <div className="container">
+    <div className="containerAdmin">
       <div className="headding">
         <p>mangment</p>
         <div className="selections">
